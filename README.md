@@ -33,6 +33,4 @@ Technical Overview
 
 Dataset can be found [here](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data)
 
-In the absence of time data in the original dataset, timestamps were generated to enrich the analysis and potentially derive additional insights. This approach was utilized for exploratory purposes, acknowledging that professional datasets would typically include accurate timestamps.
-
 ![jupyter](Content/notebook.png)

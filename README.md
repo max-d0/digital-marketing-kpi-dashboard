@@ -1,13 +1,16 @@
+Table of Contents
+-----------------
+[Project Overview](#project-overview)
+[Summary of Insights](#summary-of-insights)
+[Recommendations](#recommendations)
+[Technical Overview](#technical-overview)
+
 Project Overview
 ===============
 
 This project provides a basic monthly performance analysis of digital media marketing campaign engagement during the month of February. The purpose is to provide a holistic view of February's marketing KPI's, as well as provide a cost impact analysis, and identify areas for potential optimization in budget allocation.
 
 Interactive dashboards can be found [here](https://public.tableau.com/app/profile/max.d4182/viz/MarketingCampaignPerformanceAnalysis_17275645130830/CampaignPerformanceDashboard).
-
-![image1](Content/page1.png)
-
-![image2](Content/page2.png)
 
 Summary of Insights
 ==================
@@ -17,6 +20,10 @@ Summary of Insights
 - Social media campaigns show high conversion rates but lower-than-expected return on investment (ROI), suggesting potential inefficiencies.
 - Multimedia campaigns consistently generate the highest number of impressions but exhibit significantly lower click-through rates (CTR) compared to other channels.
 - Influencer campaigns drive both higher lead conversion and return on investment (ROI), but cost efficiency is mixed.
+
+![image1](Content/page1.png)
+
+![image2](Content/page2.png)
 
 Recommendations
 ==============
@@ -35,4 +42,4 @@ Dataset can be found [here](https://www.kaggle.com/datasets/sinderpreet/analyze-
 
 Python and Pandas were used to evaluate and improve the dataset’s quality, which involved identifying and handling missing or duplicate values, cleaning, and organizing the data to ensure it was ready for analysis. From the original dataset, some key metrics were calculated such as Cost per Click (CPC), Cost per Lead (CPL), and Click-Through Rate (CTR) to support deeper insights. The pre-processing was minimal, but essential in ensuring the dataset was structured for efficient analysis and visualization.
 
-![jupyter](Content/notebook1.png)
+![jupyter](Content/notebook.png)

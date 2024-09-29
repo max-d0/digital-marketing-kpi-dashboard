@@ -15,7 +15,7 @@ Interactive dashboards can be found [here](https://public.tableau.com/app/profil
 Summary of Insights
 ==================
 
-- Search campaigns boast the highest click-through rate (CTR), despite generating the fewest leads, indicating high engagement from a smaller audience.
+- Search campaigns boast the highest click-through rate (CTR), despite generating the fewest leads, suggesting strong audience engagement despite limited overall reach.
 - Campaigns with higher budgets do not always correlate with better performance. This implies a need for more efficient budget allocation across different channels.
 - Social media campaigns show high conversion rates but lower-than-expected return on investment (ROI), suggesting potential inefficiencies.
 - Multimedia campaigns consistently generate the highest number of impressions but exhibit significantly lower click-through rates (CTR) compared to other channels.

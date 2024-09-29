@@ -1,9 +1,9 @@
 Table of Contents
 -----------------
-[Project Overview](#project-overview)
-[Summary of Insights](#summary-of-insights)
-[Recommendations](#recommendations)
-[Technical Overview](#technical-overview)
+- [Project Overview](#project-overview)
+- [Summary of Insights](#summary-of-insights)
+- [Recommendations](#recommendations)
+- [Technical Overview](#technical-overview)
 
 Project Overview
 ===============

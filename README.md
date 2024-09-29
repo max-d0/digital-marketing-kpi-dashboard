@@ -21,3 +21,7 @@ Recommendations
 ===========
 - Further analysis is warranted to explore the scalability of high-performing, cost-efficient campaigns.
 - Investigation into the discrepancy between social media campaign's strong conversion rate and suboptimal cost efficiency could reveal opportunities for optimization.
+
+===========
+
+[ipynb](https://nbviewer.org/github/max-d0/digital-marketing-kpi-dashboard/blob/main/main.ipynb)

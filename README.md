@@ -26,4 +26,4 @@ Recommendations
 
 Jupyter Notebook
 ----------------
-[jupyter](Content/notebook.png)
+![jupyter](Content/notebook.png)

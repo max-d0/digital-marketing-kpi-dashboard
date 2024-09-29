@@ -6,9 +6,9 @@ Interactive dashboards can be found [here](https://public.tableau.com/app/profil
 
 Pandas used to prepare data for dashboard can be found [here](main.ipynb)
 
-![image1](content/page1.png)
+![image1](Content/page1.png)
 
-![image2](content/page2.png)
+![image2](Content/page2.png)
 
 Summary of Insights
 ===========

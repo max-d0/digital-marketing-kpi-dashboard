@@ -33,4 +33,4 @@ Technical Overview
 
 Dataset can be found [here](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data)
 
-![jupyter](Content/notebook.png)
+![jupyternotebook](Content/notebook.png)

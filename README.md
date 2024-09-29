@@ -4,6 +4,8 @@ This project provides a basic monthly performance analysis of digital media mark
 
 Interactive dashboards can be found [here](https://public.tableau.com/app/profile/max.d4182/viz/MarketingCampaignPerformanceAnalysis_17275645130830/CampaignPerformanceDashboard).
 
+Pandas used to prepare data for dashboard can be found [here](#jupyter)
+
 ![image1](Content/page1.png)
 
 ![image2](Content/page2.png)
@@ -20,6 +22,9 @@ Recommendations
 - Further analysis is warranted to explore the scalability of high-performing, cost-efficient campaigns.
 - Investigation into the discrepancy between social media campaign's strong conversion rate and suboptimal cost efficiency could reveal opportunities for optimization.
 
+
+Jupyter
+-------
 
 ```python
 import pandas as pd

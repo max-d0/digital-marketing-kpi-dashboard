@@ -1,5 +1,5 @@
 Table of Contents
------------------
+=================
 - [Project Overview](#project-overview)
 - [Summary of Insights](#summary-of-insights)
 - [Recommendations](#recommendations)
@@ -13,7 +13,7 @@ This project provides a basic monthly performance analysis of digital media mark
 Interactive dashboards can be found [here](https://public.tableau.com/app/profile/max.d4182/viz/MarketingCampaignPerformanceAnalysis_17275645130830/CampaignPerformanceDashboard).
 
 Summary of Insights
-==================
+-------------------
 
 - Search campaigns boast the highest click-through rate (CTR), despite generating the fewest leads, suggesting strong audience engagement despite limited overall reach.
 - Campaigns with higher budgets do not always correlate with better performance. This implies a need for more efficient budget allocation across different channels.
@@ -26,7 +26,7 @@ Summary of Insights
 ![image2](Content/page2.png)
 
 Recommendations
-==============
+---------------
 
 - Explore opportunities to refine or scale search campaigns for a more conversion-ready audience, with the goal of boosting leads without affecting click-through rates.
 - Further analysis is warranted to explore the scalability of high-performing, cost-efficient campaigns.
@@ -36,7 +36,7 @@ Recommendations
 
 
 Technical Overview
-=================
+------------------
 
 Dataset can be found [here](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data)
 
